@@ -1,6 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+///
+/// This is your coding challenge widget.
+///
+/// You can create additional files as needed.
+///
+///
 class StartWidget extends StatelessWidget {
   const StartWidget({super.key});
 
