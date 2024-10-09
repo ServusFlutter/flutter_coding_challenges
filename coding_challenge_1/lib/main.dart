@@ -1,4 +1,4 @@
-import 'package:coding_challenge_1/servus_flutter/servus_flutter_main.dart';
+import 'package:coding_challenge_1/src/servus_flutter/coding_challenge_wrapper.dart';
 import 'package:flutter/material.dart';
 
 ///
@@ -7,5 +7,5 @@ import 'package:flutter/material.dart';
 /// Go to this file to start the coding challenge [start_widget.dart]
 ///
 void main() {
-  runApp(const ServusFlutterMain());
+  runApp(CodingChallengeWrapper());
 }
