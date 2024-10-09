@@ -7,7 +7,7 @@ interfaces (UI) with gradients using Flutter.
 
 * Platform: Web (testing widgets only works with web rendering currently)
 * Restrictions
-    * Do not modify the `lib/main.dart` file
+  * Do not modify the `lib/main.dart` file
   * Leave the `lib/src/` folder untouched
 
 ## Task
@@ -30,10 +30,6 @@ page:  https://www.servusflutter.com/challenges
 * Refer to the Flutter documentation (https://flutter.dev/docs) for assistance with building UIs.
 * Good luck and have fun!
 
-## Coding challenge
+## Hint
 
-The first coding challenge will be a UI challenge. 
-
-Figma file specs: https://www.figma.com/design/qdGtCbNodBf39SzfmIz3M9/Untitled?node-id=1-2&t=f3JlVjo9lnaFZKMI-1
-
-Try to rebuild the UI and test your solution with the provided button. If the solution is correct, type in the code as the answer inside the coding challenge https://www.servusflutter.com/challenges
+* Don't forget the box shader ;-)
