@@ -34,6 +34,7 @@ class ChallengeTester extends ConsumerWidget {
           pixel.r.toInt() + pixel.g.toInt() + pixel.b.toInt() + pixel.a.toInt();
     } while (pixel.moveNext());
 
+    // debugPrint("$sum");
     return sum;
   }
 
