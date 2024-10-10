@@ -5,14 +5,22 @@ interfaces (UI) with gradients using Flutter.
 
 ## Environment
 
-* Platform: Web (testing widgets only works with web rendering currently)
+* Platform: **Web** (testing widgets only works with web rendering currently)
 * Restrictions
   * Do not modify the `lib/main.dart` file
   * Leave the `lib/src/` folder untouched
 
-## Task
+## Coding Challenge Task
 
-Your objective is to recreate the UI provided in the Figma design
+Your UI designer loves gradients and would like you to develop this button with flutter. The
+background should also have a gradient. Actually, everything has a gradient, even the border and the
+icons.
+
+![Coding Cchallenge 1](.readme-images/coding_challenge_1.png)
+
+![Coding Cchallenge 1](.readme-images/coding_challenge_1_explained.png)
+
+You can also check out this Figma design
 file: https://www.figma.com/design/qdGtCbNodBf39SzfmIz3M9/Servus-Flutter-Coding-Challenges?node-id=26-2&t=AFZQg7CylVAdVAzn-1
 
 ## Where to start?
