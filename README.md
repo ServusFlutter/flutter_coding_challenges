@@ -16,13 +16,13 @@ Flutter meetup.
 
 ### Flutter Coding Challenge 1 (UI)
 
-Check out folder [coding_challenge_1](coding_challenge_1)
+Check out folder [coding_challenge](coding_challenge_1)
 
-![Coding Cchallenge 1](coding_challenge_1/.readme-images/coding_challenge_1.png)
+![Coding Cchallenge](coding_challenge_1/.readme-images/coding_challenge_1.png)
 
 
 ### Flutter Coding Challenge 2 (UI)
 
-Check out folder [coding_challenge_1](coding_challenge_2)
+Check out folder [coding_challenge](coding_challenge_2)
 
-![Coding Cchallenge 1](coding_challenge_2/.readme-images/Coding_Challenge_2.png)
+![Coding Cchallenge](coding_challenge_2/.readme-images/Coding_Challenge_2.png)
