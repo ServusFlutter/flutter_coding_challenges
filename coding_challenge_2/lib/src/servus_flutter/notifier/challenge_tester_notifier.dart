@@ -12,9 +12,9 @@ class ChallengeTesterNotifier extends _$ChallengeTesterNotifier {
 
     // Artificial delay just to rate-limit all requests
     await Future.delayed(const Duration(seconds: 1));
-    print(widgetValue);
+    // print(widgetValue);
     String url =
-        "https://servusflutter.web.app/coding-challenges/1/web/$widgetValue.json";
+        "https://servusflutter.web.app/coding-challenges/$testId/web/$widgetValue.json";
     try {
       final response = await Dio().get<String>(url);
       if (response.data == null) {
@@ -29,7 +29,7 @@ class ChallengeTesterNotifier extends _$ChallengeTesterNotifier {
   }
 
   @override
-  Future<ChallengeTesterSuccessState?> build() async {
+  Future<ChallengeTesterSuccessState?> build(String testId) async {
     return null;
   }
 }

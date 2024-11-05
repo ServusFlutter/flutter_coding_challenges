@@ -1,0 +1,11 @@
+{
+  "welcomeHeadline": "Servus Flutter Coding Challenge",
+  "welcomeExplanation1": "The container below is your widget located at /lib/start_widget.dart",
+  "welcomeExplanation2": "Try to make the user interface as good as you can.\nOnly pixel-perfect solutions will be accepted.",
+  "testButton": "Test",
+  "testExplanation": "As soon as you are finished,\ntest your user interface by pressing the ‘test’ button.",
+  "testWidgetError": "Sorry, but the widget does not look like the one in the coding challenge.\nTry to build the widget exactly as shown in the design.",
+  "testSuccessTitle": "Fantastic!",
+  "testSuccessExplanation": "This is your coding challenge code. Submit it as the answer!",
+  "openCodingChallengePageButton": "Open Coding Challenge Page"
+}
